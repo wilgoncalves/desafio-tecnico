@@ -1,0 +1,14 @@
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\bin\Debug\net8.0\CatchAChar.exe
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\bin\Debug\net8.0\CatchAChar.deps.json
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\bin\Debug\net8.0\CatchAChar.runtimeconfig.json
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\bin\Debug\net8.0\CatchAChar.dll
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\bin\Debug\net8.0\CatchAChar.pdb
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.AssemblyInfoInputs.cache
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.AssemblyInfo.cs
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.csproj.CoreCompileInputs.cache
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.dll
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\refint\CatchAChar.dll
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.pdb
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\CatchAChar.genruntimeconfig.cache
+C:\Users\wilsa\OneDrive\Desktop\CatchAChar\obj\Debug\net8.0\ref\CatchAChar.dll
